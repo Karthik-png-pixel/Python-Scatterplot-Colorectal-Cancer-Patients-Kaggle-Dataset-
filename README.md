@@ -1,4 +1,4 @@
-# Introduction: This project focuses on analyzing the number of months Colorectal Cancer patients live disease free (DFS) after being initially treated for their disease. The dataset was exported from a Kaggle notebook and cleaned and analyzed using Pandas, NumPy, and MatplotLib libraries. This helped in identifying key summary statistics and creating unique dataframes for male and female patients to be able to analyze, visualize, and quantify the relationship between the cancer patients' ages and their corresponding DFS lengths. 
+# Introduction: This project focuses on analyzing the number of months Colorectal Cancer patients live disease free (DFS) after being initially treated for their disease. The dataset was exported from a Kaggle notebook and cleaned and analyzed using Pandas and MatplotLib libraries. This helped in identifying key summary statistics and creating unique dataframes for male and female patients to be able to analyze, visualize, and quantify the relationship between the cancer patients' ages and their corresponding DFS lengths. 
 
 
 
